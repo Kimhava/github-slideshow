@@ -1,0 +1,6 @@
+---
+ bố cục : tiêu đề trang trình bày
+ : " Chào mừng bạn đến với trang trình bày thứ hai của chúng tôi! "
+---
+Văn bản của bạn 
+Sử dụng mũi tên trái để quay lại!
